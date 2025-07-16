@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $user = 'root';
-$pass = 'Prince@123';
+$pass = '';
 $dbname = 'crud_img'; // ✅ Use your actual database name
 
 $con = new mysqli($host, $user, $pass, $dbname);
